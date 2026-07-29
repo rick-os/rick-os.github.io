@@ -7,7 +7,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://rick-os.github.io',
-  base: '/rickos'
+  base: '/rickos',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
