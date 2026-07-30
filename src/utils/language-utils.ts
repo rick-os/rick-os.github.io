@@ -8,7 +8,7 @@ export function getLanguageDisplayName(langCode: string): string {
 		zh_CN: "简体中文",
 		zh_TW: "繁體中文",
 		en: "English",
-    pt-br: "Português Brasil", 
+    pt: "Português Brasil", 
 		ja: "日本語",
 		ko: "한국어",
 		es: "Español",
