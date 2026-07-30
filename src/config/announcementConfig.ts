@@ -2,13 +2,13 @@ import type { AnnouncementConfig } from "../types/config";
 
 // 公告栏配置
 export const announcementConfig: AnnouncementConfig = {
-	title: "", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "Eu vim fazer um anúncio, shadow o ouriço é um filho da puta.", // 公告内容
-	closable: true, // 允许用户关闭公告
+	title: "", // Título do anúncio, default: announcement
+	content: "Eu vim fazer um anúncio, shadow o ouriço é um filho da puta.", // anúncio em si
+	closable: true, // se pode fechar
 	link: {
-		enable: true, // 启用链接
-		text: "Learn More", // 链接文本
-		url: "/about/", // 链接 URL
-		external: false, // 内部链接
+		enable: true, // se tem link
+		text: "Learn More", // texto do link
+		url: "/about/", // url
+		external: false, // abrir em outra página?
 	},
 };

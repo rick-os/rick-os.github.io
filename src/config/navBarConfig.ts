@@ -133,7 +133,7 @@ export const navBarConfig: NavBarConfig = {
 		// 预设链接：归档
 		LinkPreset.Archive,
 
-		// 自定义一级下拉菜单示例：外部链接集合
+
 		{
 			name: "Links",
 			url: "/links/",
@@ -142,7 +142,7 @@ export const navBarConfig: NavBarConfig = {
 				{
 					name: "GitHub",
 					url: "https://github.com/rick-os/rick-os.github.io",
-					external: true, // 外部链接，新标签页打开
+					external: true, // vai ir pra outra guia?
 					icon: "fa7-brands:github",
 				},
 				{
@@ -150,12 +150,6 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://space.bilibili.com/701864046",
 					external: true,
 					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
 				},
 			],
 		},
