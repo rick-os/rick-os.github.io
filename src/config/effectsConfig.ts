@@ -1,7 +1,7 @@
 import type { SakuraConfig } from "../types/config";
 
 export const sakuraConfig: SakuraConfig = {
-	enable: false,
+	enable: true,
 	switchable: true,
 	sakuraNum: 21,
 	limitTimes: -1,
@@ -11,7 +11,7 @@ export const sakuraConfig: SakuraConfig = {
 	},
 	opacity: {
 		min: 0.3, // 樱花最小不透明度
-		max: 0.9, // 樱花最大不透明度
+		max: 1, // 樱花最大不透明度
 	},
 	speed: {
 		horizontal: {

@@ -33,9 +33,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://discord.com/users/479027737085083663",
 		},
     {
-      name: "Youtube",
-      icon: "youtube",
-      url: "https://youtube.com/@rick-osdev?si=U3GuPSI8IXLuyJgJ",
+      name: "Steam",
+      icon: "steam",
+      url: "https://steamcommunity.com/profiles/76561199062612429/",
     },
 	],
 };

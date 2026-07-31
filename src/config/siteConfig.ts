@@ -153,8 +153,11 @@ export const siteConfig: SiteConfig = {
 
 			subtitle: [
 				"Como carambas você acabou aqui?",
-        "Já que veio até aqui aproveita pra bisbilhotar!",
+        "Bom, isso não importa, obrigado pela visita!",
+        "Por que não dá uma olhada no blog?",
+        "Alguém realmente lê isso?",
 				"Ehhh... O que eu deveria colocar aqui?",
+        "Você ainda está aqui? Tente visitar os artigos...",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
