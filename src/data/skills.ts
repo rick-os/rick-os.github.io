@@ -19,11 +19,12 @@ export interface Skill {
 
 export const skillsData: Skill[] = [
 	// Frontend Skills
-	{
+	/*
+  {
 		id: "javascript",
 		name: "JavaScript",
 		description:
-			"Modern JavaScript development, including ES6+ syntax, asynchronous programming, and modular development.",
+			"",
 		icon: "logos:javascript",
 		category: "frontend",
 		level: "advanced",
@@ -247,18 +248,20 @@ export const skillsData: Skill[] = [
 		projects: ["game-engine", "system-optimization"],
 		color: "#00599C",
 	},
+  */
 	{
 		id: "c",
 		name: "C",
 		description:
-			"A low-level systems programming language, the foundation for operating systems and embedded systems development.",
+			"Uma linguagem de baixo nível, é fundamental para desenvolvimento dos sistemas operacionais e sistemas embarcados.",
 		icon: "logos:c",
 		category: "backend",
-		level: "intermediate",
-		experience: { years: 1, months: 2 },
-		projects: ["embedded-system", "kernel-module"],
+		level: "beginner",
+		experience: { years: 0, months: 6 },
+		projects: ["caesar_cipher", "tictactoe"],
 		color: "#A8B9CC",
 	},
+  /*
 	{
 		id: "kotlin",
 		name: "Kotlin",
@@ -415,30 +418,43 @@ export const skillsData: Skill[] = [
 		projects: ["task-manager-app"],
 		color: "#FFCA28",
 	},
-
+*/
 	// Tools
-	{
+	
+  {
 		id: "git",
 		name: "Git",
 		description:
-			"A distributed version control system, an essential tool for code management and team collaboration.",
+			"Uma ferramenta de versionamento de código, essencial para colaboração entre devs",
 		icon: "logos:git-icon",
 		category: "tools",
-		level: "advanced",
-		experience: { years: 3, months: 0 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#F05032",
 	},
 	{
 		id: "vscode",
 		name: "VS Code",
 		description:
-			"A lightweight but powerful code editor with a rich plugin ecosystem.",
+			"Uma IDE leve e eficiente com um grande repertório de plugins.",
 		icon: "logos:visual-studio-code",
 		category: "tools",
-		level: "expert",
-		experience: { years: 3, months: 6 },
+		level: "intermediate",
+		experience: { years: 0, months: 6 },
 		color: "#007ACC",
 	},
+  {
+		id: "neovim",
+		name: "NeoVim",
+		description:
+			"Um editor de texto extremamente poderoso e com diversos plugins.",
+		icon: "simple-icons:neovim",
+		category: "tools",
+		level: "beginner",
+		experience: { years: 0, months: 1 },
+		color: "#57A143",
+	},
+  /*
 	{
 		id: "webstorm",
 		name: "WebStorm",
@@ -499,17 +515,19 @@ export const skillsData: Skill[] = [
 		projects: ["go-microservice"],
 		color: "#3D7BF7",
 	},
+  */
 	{
 		id: "docker",
 		name: "Docker",
 		description:
-			"A containerization platform that simplifies application deployment and environment management.",
+			"Uma plataforma de containers que simplifica o deploy e gestão de ambiente.",
 		icon: "logos:docker-icon",
 		category: "tools",
-		level: "intermediate",
-		experience: { years: 1, months: 0 },
+		level: "beginner",
+		experience: { years: 0, months: 5 },
 		color: "#2496ED",
 	},
+  /*
 	{
 		id: "kubernetes",
 		name: "Kubernetes",
@@ -581,18 +599,20 @@ export const skillsData: Skill[] = [
 		projects: ["cloud-deployment", "serverless-app"],
 		color: "#FF9900",
 	},
+  */
 	{
 		id: "linux",
 		name: "Linux",
 		description:
-			"An open-source operating system, the preferred choice for server deployment and development environments.",
+			"A base de todas as distros linux, as quais edificam a internet e tudo que usamos nela.",
 		icon: "logos:linux-tux",
 		category: "tools",
 		level: "intermediate",
-		experience: { years: 2, months: 0 },
-		projects: ["server-management", "shell-scripting"],
+		experience: { years: 1, months: 0 },
+		projects: [],
 		color: "#FCC624",
 	},
+  /*
 	{
 		id: "postman",
 		name: "Postman",
@@ -676,4 +696,5 @@ export const skillsData: Skill[] = [
 		projects: ["e2e-testing"],
 		color: "#17202C",
 	},
+  */
 ];

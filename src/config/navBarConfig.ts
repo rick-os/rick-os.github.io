@@ -147,7 +147,7 @@ export const navBarConfig: NavBarConfig = {
 				},
         {
           name: "Youtube",
-          url: "https://youtube.com/@rick-osdev?si=U3GuPSI8IXLuyJgJ",
+          url: "https://www.youtube.com/channel/UC_BT94MgdoTjLSHCnZATlig",
           external: true,
           icon: "youtube",
         },

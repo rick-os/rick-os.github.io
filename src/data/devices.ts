@@ -14,6 +14,7 @@ export type DeviceCategory = Record<string, Device[]> & {
 };
 
 export const devicesData: DeviceCategory = {
+  /*
 	OnePlus: [
 		{
 			name: "OnePlus 13T",
@@ -33,4 +34,5 @@ export const devicesData: DeviceCategory = {
 			link: "https://www.gl-inet.cn/products/gl-mt3000/",
 		},
 	],
+  */
 };
