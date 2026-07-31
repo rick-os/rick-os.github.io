@@ -1,49 +1,16 @@
+## Prazer,
+Eu sou o Rick, um estudante de engenharia de computação e entusiasta de tecnologia. Comecei o curso em março de 2026, portanto sou um veterano ainda calouro. Além disso, considero importante dizer que todas as informações aqui compartilhadas estão sujeitas a erros, por mais que eu tente mitigá-los ainda é possível que algum ou outro detalhe não esteja 100% correto, se você encontrar alguma coisa que precise de revisão eu ficaria muito grato se você pudesse entrar em contato comigo e infortmar-me sobre o que errei!
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+## O que gosto?
+Meus gostos giram em torne dos seguintes tópicos:
+  - Em primeiro, para a surpresa de ninguém, tecnologia.  
+  - Matématica e todos os demais campos de conhecimento.
+  - Animes.
+  - Jogos.
+  - Música.
 
-::github{repo="LyraVoid/Mizuki"}
+## Por que eu fiz esse blog?
+Bom, não existe um motivo que implique uma reação do tipo: "Damn, que motivo foda!", eu apenas gostaria de escrever mais, então pensei que um blog poderia ajudar nisso... Logo o motivo é esse: quero escrever e compartilhar o que escrevo, e criar um blog pareceu ser uma boa maneira de fazer isso.
 
-## 🌟 Theme Features
-
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
----
-
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+## Onde pode me encontrar?
+Você pode me encontrar no discord: [@rick.os](https://discord.com/users/479027737085083663)...

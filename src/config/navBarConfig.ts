@@ -145,13 +145,13 @@ export const navBarConfig: NavBarConfig = {
 					external: true, // vai ir pra outra guia?
 					icon: "fa7-brands:github",
 				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					external: true,
-					icon: "fa7-brands:bilibili",
-				},
-			],
+        {
+          name: "Youtube",
+          url: "https://youtube.com/@rick-osdev?si=U3GuPSI8IXLuyJgJ",
+          external: true,
+          icon: "youtube",
+        },
+      ],
 		},
 
 		// 自定义一级下拉菜单示例：个人内容页面
@@ -218,12 +218,6 @@ export const navBarConfig: NavBarConfig = {
 					name: "Skills",
 					url: "/skills/",
 					icon: "material-symbols:psychology",
-				},
-				LinkPreset.AITools,
-				{
-					name: "Timeline",
-					url: "/timeline/",
-					icon: "material-symbols:timeline",
 				},
 			],
 		},

@@ -23,14 +23,19 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/rick-os",
 		},
 		{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org",
+			name: "Spotify",
+			icon: "spotify",
+			url: "https://open.spotify.com/user/214c4kpsi4lt6u5hkin2rncia?si=f886f25e265647f2",
 		},
 		{
 			name: "Discord",
 			icon: "fa7-brands:discord",
 			url: "https://discord.com/users/479027737085083663",
 		},
+    {
+      name: "Youtube",
+      icon: "youtube",
+      url: "https://youtube.com/@rick-osdev?si=U3GuPSI8IXLuyJgJ",
+    },
 	],
 };
