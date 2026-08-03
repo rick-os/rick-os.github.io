@@ -10,7 +10,7 @@
 # === ORGANIZAÇÃO ===
   category: "Guia"
   tags:
-    - Guia
+    - guia
 
 # === VISUAL ===
   image: "./banner.webp"
